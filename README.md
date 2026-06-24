@@ -16,7 +16,7 @@ The system transitions from a robust **Relational Database (Oracle RDBMS)** hand
 * **NoSQL Migration & JSON:** Orchestrated the extraction of complex relational data into structured JSON format, subsequently deploying it into MongoDB for nested document querying.
 
 ## 📊 Entity-Relationship Diagram (ERD)
-
+![BigRig Movers Data Model](erd_model.png)
 
 ## 📁 Repository Structure
 * `T1-brm-schema.sql` - DDL scripts for table creation and integrity constraints.
